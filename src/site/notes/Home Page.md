@@ -4,4 +4,4 @@
 
 Hello!
 
-[[New note\|New note]]]
+[[New note\|New note]]
