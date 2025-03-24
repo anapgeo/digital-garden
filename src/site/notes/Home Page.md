@@ -3,3 +3,5 @@
 ---
 
 Hello!
+
+[[[New note\|[New note]]]
