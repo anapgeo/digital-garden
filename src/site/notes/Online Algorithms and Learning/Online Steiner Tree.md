@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/online-algorithms-and-learning/online-steiner-tree/","created":"2025-03-25T14:58:23.180+02:00","updated":"2025-03-25T22:32:27.251+02:00"}
+{"dg-publish":true,"permalink":"/online-algorithms-and-learning/online-steiner-tree/","created":"2025-03-25T14:58:23.180+02:00","updated":"2025-03-25T22:41:48.024+02:00"}
 ---
 
 
@@ -14,7 +14,7 @@
 
 Η απόδοση του online αλγορίθμου σας αυτού θα συγκριθεί με το βέλτιστο offline αλγόριθμο ο οποίος υπολογίζει και αυτός το φθηνότερο δυνατό υπογράφημα, Επειδή τα κόστη είναι μη αρνητικά, το υπογράφημα με το μικρότερο κόστος θα πρέπει να είναι ένα δέντρο T. Το κόστος του δέντρου αυτού θα είναι το άθροισμα των κοστών των ακμών του: $c(T)=\sum_{e\in T}c_e$
 
-![Screenshot_2.png](/img/user/Online%20Algorithms%20and%20Learning/Screenshot_2.png)
+![Screenshot_2.png|200](/img/user/Online%20Algorithms%20and%20Learning/Screenshot_2.png)
 
 > Σημείωση: Το minimum Steiner Tree πρόβλημα είναι NP-hard πρόβλημα, σε αντίθεση με το συγγενές πρόβλημα του ελάχιστου συνδετικού δένδρου (minimum Spanning Tree) που επιλύεται σε πολυωνυμικό χρόνο (π.χ. Kruskal, Prim,…)
 
