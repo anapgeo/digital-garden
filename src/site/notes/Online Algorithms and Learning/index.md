@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/online-algorithms-and-learning/index/","title":"Εισαγωγή","created":"2025-03-25T14:58:23.153+02:00","updated":"2025-03-28T12:42:28.692+02:00"}
+{"dg-publish":true,"permalink":"/online-algorithms-and-learning/index/","title":"Εισαγωγή","created":"2025-03-25T14:58:23.153+02:00","updated":"2025-03-28T12:44:54.613+02:00"}
 ---
 
 
@@ -13,4 +13,4 @@
 
 Στα **άμεσα προβλήματα** η **δυσκολία** είναι **η έλλειψη πληροφορίας** και **όχι η έλλειψη υπολογιστικών πόρων**. Ακόμα και εκθετικοί αλγόριθμοι πολλές φορές είναι ικανοποιητικοί
 
-Συχνά σε όλες τις αναλύσεις που θα δούμε χρησιμοποιείται τo concept του [competitive analysis(ανταγωνιστική ανάλυση)]([[Online Algorithms and Learning/Competitive Analysis\|Competitive Analysis]]). 
+Συχνά σε όλες τις αναλύσεις που θα δούμε χρησιμοποιείται τo concept του [[Online Algorithms and Learning/Competitive Analysis\|Competitive Analysis]]. 
