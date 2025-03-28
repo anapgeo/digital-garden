@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/online-algorithms-and-learning/to-provlima-toy-grammatea-the-secretary-problem/","created":"2025-03-25T14:58:23.070+02:00","updated":"2025-03-25T15:00:08.447+02:00"}
+{"dg-publish":true,"permalink":"/online-algorithms-and-learning/to-provlima-toy-grammatea-the-secretary-problem/","created":"2025-03-25T14:58:23.070+02:00","updated":"2025-03-28T12:40:00.025+02:00"}
 ---
 
 Στο πρόβλημα του γραμματέα, έχουμε(όπως και στις [[Online Algorithms and Learning/Ανισότητες Προφητών(Prophet Inequalities)\|Ανισότητες Προφητών(Prophet Inequalities)]]) κάποια κουτιά διαθέσιμα τα οποία περιέχουν κάποιες αξίες. Γνωρίζουμε τον αριθμό των κουτιών αλλά δεν γνωρίζουμε τίποτα για τις τιμές που ενδέχεται να περιέχουν (σε αντίθεση με τα prophet inequalities όπου γνωρίζαμε κάποια πληροφορία για τις αξίες των κουτιών αλλά μας ήταν αδιάφορος ο αριθμός τους).
@@ -103,4 +103,4 @@ $$
 Η αντίστοιχη πιθανότητα επιτυχίας είναι: $g(τ+1) ≈ 1/e ≈ 0.367$ 
 
 
-> Σημείωση: Για κάποιες μικρές τιμές του n μπορείτε να δείτε τα αποτέλεσματα στον παρακάτω πίνακα ![Screenshot_1.png](/img/user/Online%20Algorithms%20and%20Learning/Screenshot_1.png)
+> Σημείωση: Για κάποιες μικρές τιμές του n μπορείτε να δείτε τα αποτέλεσματα στον παρακάτω πίνακα ![Screenshot_1.png|500](/img/user/Online%20Algorithms%20and%20Learning/Screenshot_1.png)
