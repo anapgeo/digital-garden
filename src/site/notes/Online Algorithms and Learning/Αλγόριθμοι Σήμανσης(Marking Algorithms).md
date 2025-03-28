@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/online-algorithms-and-learning/algorithmoi-simansis-marking-algorithms/","created":"2025-03-25T14:58:23.049+02:00","updated":"2025-03-25T14:59:11.194+02:00"}
+{"dg-publish":true,"permalink":"/online-algorithms-and-learning/algorithmoi-simansis-marking-algorithms/","created":"2025-03-25T14:58:23.049+02:00","updated":"2025-03-28T12:33:52.740+02:00"}
 ---
 
 
@@ -7,17 +7,17 @@
 
 Οι αλγόριθμοι σήμανσης για την επίλυση του προβήματος της κρυφής μνήμης είναι μια **κλάση αλγορίθμων** οι οποίοι περιγράφονται από τον παρακάτω ψευδοκώδικα:
 
-![Screenshot_22.png](/img/user/Online%20Algorithms%20and%20Learning/Screenshot_22.png)
+![Screenshot_22.png|500](/img/user/Online%20Algorithms%20and%20Learning/Screenshot_22.png)
 
 
 Καταλαβαίνουμε πως ο ψευδοκώδικας αυτός περιγράφει μια κλάση αλγορίθμων και όχι κάποιο συγκεκριμένο αλγόριθμο καθώς δεν καθορίζει με πιο τρόπο απομακρύνεται ένα unmarked στοιχείο από την cache. Υπάρχουν πληθώρα επιλογών κριτηρίων για την απομάκρυνση κάποιου unmarked στοιχείου. Τα κριτήρια αυτά μπορεί να είναι τόσο ντετερμινιστικά όσο και τυχαιοκρατικά.
 
 Στη συνέχεια βλέπουμε ένα παράδειγμα εφαρμογής ενός marking αλγόριθμου για μνήμη cache με τρείς θέσεις(k=3), και 5 διαφορετικά πιθανά σύμβολα(N=5). Αρχικά η cache ειναι κενή.
-![Screenshot_20.png](/img/user/Online%20Algorithms%20and%20Learning/Screenshot_20.png)
+![Screenshot_20.png|500](/img/user/Online%20Algorithms%20and%20Learning/Screenshot_20.png)
 ![Screenshot_19.png](/img/user/Online%20Algorithms%20and%20Learning/Screenshot_19.png)
 
 > Σημείωση: Ο αλγόριθμος LRU είναι επι της ουσίας ένας marking αλγόριθμος. Το κριτήριο απομάκρυνσης ενός unmarked στοιχείου είναι το ποιο κελί της cache έχει προσπελαστεί πιο παλιά. Παρακάτω φαίνεται και ένα παράδειγμα λειτουργίας του LRU.
-![Screenshot_21.png](/img/user/Online%20Algorithms%20and%20Learning/Screenshot_21.png)
+![Screenshot_21.png|500](/img/user/Online%20Algorithms%20and%20Learning/Screenshot_21.png)
 
 
 ## Ανταγωνιστικότητα Αλγορίθμων Σήμανσης
