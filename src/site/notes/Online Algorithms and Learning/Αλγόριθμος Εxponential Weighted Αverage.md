@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/online-algorithms-and-learning/algorithmos-exponential-weighted-average/","created":"2025-03-25T14:58:23.119+02:00","updated":"2025-03-25T14:59:33.543+02:00"}
+{"dg-publish":true,"permalink":"/online-algorithms-and-learning/algorithmos-exponential-weighted-average/","created":"2025-03-25T14:58:23.119+02:00","updated":"2025-03-28T12:39:23.345+02:00"}
 ---
 
-![Screenshot_8 2.png](/img/user/Online%20Algorithms%20and%20Learning/Screenshot_8%202.png)
+![Screenshot_8 2.png|500](/img/user/Online%20Algorithms%20and%20Learning/Screenshot_8%202.png)
 
 
 ## Ανάλυση και σχόλια

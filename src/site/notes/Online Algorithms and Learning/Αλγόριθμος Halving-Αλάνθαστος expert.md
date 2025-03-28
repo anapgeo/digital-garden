@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/online-algorithms-and-learning/algorithmos-halving-alanthastos-expert/","created":"2025-03-25T14:58:23.067+02:00","updated":"2025-03-25T14:59:23.994+02:00"}
+{"dg-publish":true,"permalink":"/online-algorithms-and-learning/algorithmos-halving-alanthastos-expert/","created":"2025-03-25T14:58:23.067+02:00","updated":"2025-03-28T12:39:04.343+02:00"}
 ---
 
 
@@ -17,7 +17,7 @@
 
 ### Ο αλγόριθμος 
 
-![Screenshot_7 1.png](/img/user/Online%20Algorithms%20and%20Learning/Screenshot_7%201.png)
+![Screenshot_7 1.png|500](/img/user/Online%20Algorithms%20and%20Learning/Screenshot_7%201.png)
 
 
 > Σημείωση: Πρακτικά για κάθε γύρο προβλέψεων λαμβάνουμε τα δεδομένα $x_t$. Στη συνέχεια κάνουμε μια πρόβλεψη με βάση το majority vote από τις συμβουλές $H_t$ των experts που "εμπιστευόμαστε". Αρχικά περιλαμβάνονται σε αυτούς όλοι οι διαθέσιμοι experts. Στη συνέχεια, μετά από κάθε πρόβλεψη, αν η πρόβλεψη που κάναμε ήταν λάθος τότε αφαιρούμε όσους experts έκανα λάθος πρόβλεψη(οι οποίοι λόγω του majority vote θα είναι τουλάχιστον οι μισοί)

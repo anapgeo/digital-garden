@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/online-algorithms-and-learning/algorithmos-weighted-majority-den-yparxei-alanthastos-expert/","created":"2025-03-25T14:58:23.087+02:00","updated":"2025-03-25T14:59:28.322+02:00"}
+{"dg-publish":true,"permalink":"/online-algorithms-and-learning/algorithmos-weighted-majority-den-yparxei-alanthastos-expert/","created":"2025-03-25T14:58:23.087+02:00","updated":"2025-03-28T12:39:14.693+02:00"}
 ---
 
 
@@ -16,7 +16,7 @@
 
 ### Ο αλγόριθμος 
 
-![Screenshot_8 1.png](/img/user/Online%20Algorithms%20and%20Learning/Screenshot_8%201.png)
+![Screenshot_8 1.png|500](/img/user/Online%20Algorithms%20and%20Learning/Screenshot_8%201.png)
 
 
 > Σημείωση: Πρακτικά για κάθε γύρο προβλέψεων λαμβάνουμε τα δεδομένα $x_t$. Στη συνέχεια κάνουμε μια πρόβλεψη με βάση το ελέγχουμε τα βάρη των N experts, συγκεκριμένα αν το άθροισμα των βαρών των experts που προβλέπουν 1 είναι μεγαλύτερο από το άθροισμα των βαρών των experts που προβλέπουν 0 τότε επιλέγουμε 1. Διαφορετικά προβλέπουμε 0.  Στη συνέχεια, μετά από κάθε πρόβλεψη, αν η πρόβλεψη που κάναμε ήταν λάθος τότε πολλαπλασιάζουμε τα βάρη των experts που έκαναν λάθος με ένα παράγοντα $β\in [0,1]$ 
