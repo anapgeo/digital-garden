@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/online-algorithms-and-learning/amesoi-algorithmoi-online-algorithms/","created":"2025-03-25T14:58:23.108+02:00","updated":"2025-03-28T12:41:40.881+02:00"}
+{"dg-publish":true,"permalink":"/online-algorithms-and-learning/amesoi-algorithmoi-online-algorithms/","created":"2025-03-25T14:58:23.108+02:00","updated":"2025-03-28T12:43:57.930+02:00"}
 ---
 
-## Competitive Analysis
 
 ## Kλασσικά Προβλήματα
 
