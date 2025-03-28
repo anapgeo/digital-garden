@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/online-algorithms-and-learning/beltisti-kryfi-mnimi-cache/","created":"2025-03-25T14:58:23.184+02:00","updated":"2025-03-25T14:59:56.824+02:00"}
+{"dg-publish":true,"permalink":"/online-algorithms-and-learning/beltisti-kryfi-mnimi-cache/","created":"2025-03-25T14:58:23.184+02:00","updated":"2025-03-28T12:31:40.361+02:00"}
 ---
 
 Έστω μια κρυφή Μνήμη ή μνήμη cache η οποία έχει χωρητικότητα k στοιχείων. Η μνήμη αυτή δέχεται m αιτήματα στοιχείων $d_1,d_2,...,d_m$. H μνήμη επιτυγχάνει(**cache hit**) όταν το στοιχείο $d_i$ που ζητήθηκε σε ένα από τα αιτήματα υπήρχε στη μνήμη όταν ζητήθηκε. Αντίθετα αν δεν υπήρχε θα είχαμε αστοχία(**cache miss**), και τότε θα πρέπει να απομακρύνουμε κάποιο στοιχείο από τη μνήμη για να προσθέσουμε το αιτούμενο στοιχείο.
 
-![Screenshot_17.png](/img/user/Online%20Algorithms%20and%20Learning/Screenshot_17.png)
+![Screenshot_17.png|400](/img/user/Online%20Algorithms%20and%20Learning/Screenshot_17.png)
 
 
 Η μνήμες cache έχουν πληθώρα εφαρμογών σε CPUs, RAMs ή και σκληρούς δίσκους
