@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/online-algorithms-and-learning/eksisorropisi-fortioy-load-balancing/","created":"2025-03-25T14:58:23.060+02:00","updated":"2025-03-25T15:00:00.328+02:00"}
+{"dg-publish":true,"permalink":"/online-algorithms-and-learning/eksisorropisi-fortioy-load-balancing/","created":"2025-03-25T14:58:23.060+02:00","updated":"2025-03-28T12:28:34.044+02:00"}
 ---
 
 ## To πρόβλημα
@@ -20,7 +20,7 @@
 
 Πρακτικά ο στόχος μας είναι να έχουμε όσο το δυνατό μικρότερο makespan, για να το επιτυχουμε αυτό ουσιαστικά θα πρέπει να επιτύχουμε μια εξισορρόπηση των φορτίων στις μηχανές. Για αυτό και το πρόβλημα ονομάζεται Load Balancing.
 
-![Screenshot_12.png](/img/user/Online%20Algorithms%20and%20Learning/Screenshot_12.png)
+![Screenshot_12.png|300](/img/user/Online%20Algorithms%20and%20Learning/Screenshot_12.png)
 
 
 Γενικά ακόμα και στην μη online περίπτωση όπου γνωρίζουμε τα πάντα για τις εργασίες που πρέπει να εκτελέσουμε και έχουμε μόνο 2 διαθέσιμες μηχανές, το πρόβλημα εύρεσης της βέλτιστης λύσης είναι NP-hard.
