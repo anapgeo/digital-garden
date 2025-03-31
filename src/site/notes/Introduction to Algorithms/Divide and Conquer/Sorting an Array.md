@@ -8,4 +8,4 @@ Famous algorithms:
 - [[Introduction to Algorithms/Divide and Conquer/Selection Sort\|Selection Sort]]
 - [[Insertion Sort\|Insertion Sort]]
 - [[Bubble Sort\|Bubble Sort]]
-- [[Merge Sort\|Merge Sort]]
+- [[Introduction to Algorithms/Divide and Conquer/Merge Sort\|Merge Sort]]
