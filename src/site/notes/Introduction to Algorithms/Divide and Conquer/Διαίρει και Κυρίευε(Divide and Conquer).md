@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/introduction-to-algorithms/divide-and-conquer/diairei-kai-kyrieye-divide-and-conquer/","created":"2025-03-30T02:17:49.535+02:00","updated":"2025-04-02T00:54:49.878+03:00"}
+{"dg-publish":true,"permalink":"/introduction-to-algorithms/divide-and-conquer/diairei-kai-kyrieye-divide-and-conquer/","created":"2025-03-30T02:17:49.535+02:00","updated":"2025-04-02T01:03:06.676+03:00"}
 ---
 
 
@@ -34,7 +34,7 @@
 - Παράγοντας $b$: Εκφράζει το μέγεθος των $\alpha$ υποπροβλημάτων που πρέπει να επιλυθούν για την επίλυση του αρχικού.
 - Παράγοντας $d$: Η ποσότητα $O(n^d)$ εκφράζει την πολυπλοκότητα της διαδικασίας σύνθεσης των λύσεων των υποπροβλημάτων ώστε να προκύψει η λύση του αρχικού προβλήματος
 
-![Excalidraw/recursive-factors.excalidraw.png](/img/user/Excalidraw/recursive-factors.excalidraw.png)
+![recursive-factors.excalidraw.png](/img/user/Introduction%20to%20Algorithms/Divide%20and%20Conquer/recursive-factors.excalidraw.png)
 
 
 
