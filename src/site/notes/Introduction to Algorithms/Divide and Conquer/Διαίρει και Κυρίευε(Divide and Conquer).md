@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/introduction-to-algorithms/divide-and-conquer/diairei-kai-kyrieye-divide-and-conquer/","created":"2025-03-30T02:17:49.535+02:00","updated":"2025-04-02T01:03:06.676+03:00"}
+{"dg-publish":true,"permalink":"/introduction-to-algorithms/divide-and-conquer/diairei-kai-kyrieye-divide-and-conquer/","created":"2025-03-30T02:17:49.535+02:00","updated":"2025-04-02T01:08:12.339+03:00"}
 ---
 
 
@@ -27,6 +27,7 @@
 >T(n)= \begin{cases}O\left(n^d\right) & \text { if } d>\log _b a \\ O\left(n^d \log n\right) & \text { if } d=\log _b a \\ O\left(n^{\log _b a}\right) & \text { if } d<\log _b a\end{cases}$$
 >
 
+*Απόδειξη:* Μπορείτε να τη βρείτε εδώ -> [[απόδειξη του θεωρήματος αναδρομικών σχέσεων\|απόδειξη του θεωρήματος αναδρομικών σχέσεων]]
 
 Πάμε να εξετάσουμε τι εκφράζει ο κάθε παράγοντας ώστε να είναι κατανοητό πως μπορούμε να αξιοποιήσουμε το παραπάνω θεώρημα:
 
@@ -35,8 +36,6 @@
 - Παράγοντας $d$: Η ποσότητα $O(n^d)$ εκφράζει την πολυπλοκότητα της διαδικασίας σύνθεσης των λύσεων των υποπροβλημάτων ώστε να προκύψει η λύση του αρχικού προβλήματος
 
 ![recursive-factors.excalidraw.png](/img/user/Introduction%20to%20Algorithms/Divide%20and%20Conquer/recursive-factors.excalidraw.png)
-
-
 
 
 
