@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/introduction-to-algorithms/divide-and-conquer/diairei-kai-kyrieye-divide-and-conquer/","created":"2025-03-30T02:17:49.535+02:00","updated":"2025-04-02T01:08:12.339+03:00"}
+{"dg-publish":true,"permalink":"/introduction-to-algorithms/divide-and-conquer/diairei-kai-kyrieye-divide-and-conquer/","created":"2025-03-30T02:17:49.535+02:00","updated":"2025-04-02T16:01:00.194+03:00"}
 ---
 
 
@@ -38,7 +38,9 @@
 ![recursive-factors.excalidraw.png](/img/user/Introduction%20to%20Algorithms/Divide%20and%20Conquer/recursive-factors.excalidraw.png)
 
 
+## Παραδείγματα Αλγορίθμων
 
+Ίσως το πιο χαρακτηριστικό παράδειγμα ενός αλγορίθμου διαίρει και κυρίευε είναι ο αλγόριθμος [[Introduction to Algorithms/Divide and Conquer/Merge Sort\|Merge Sort]]. Για καλύτερη κατανόηση των θεωρητικών γνώσεων παραπάνω ανέτρεξε στην σημείωση για τον αλγόριθμο αυτό.
 
 
 
